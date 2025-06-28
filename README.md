@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Padma Dey
 
-<!--
-**deypadma2020/deypadma2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | 💡 Aspiring Data Scientist | 🧠 AI & LLM Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about turning data into meaningful insights, building ML models, and exploring the latest in AI, deep learning, and large language models (LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+- 🧹 Data Wrangling & Cleaning (Pandas, NumPy)
+- 📊 Exploratory Data Analysis & Visualization (Matplotlib, Seaborn, Power BI)
+- 🤖 Machine Learning & Deep Learning (scikit-learn, TensorFlow, PyTorch)
+- ⚙️ API Development (FastAPI) | 🔍 Model Deployment (Docker)
+- 🧠 Learning about LLMs & GenAI tools
+
+---
+
+### 📈 GitHub Stats
+
+![Padma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deypadma2020&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deypadma2020&layout=compact&theme=tokyonight)
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+- ✅ LLM app building with LangChain & OpenAI APIs  
+- ✅ Advanced Data Engineering workflows  
+- ✅ MLOps best practices  
+
+---
+
+### 🌐 Connect with Me
+
+- 🔗 [LinkedIn – Padma Dey](https://www.linkedin.com/in/padmadey/)
+- 📫 Email: dey.padma2022@gmail.com
+- 🧠 Let's talk Data, AI, and everything in between!
+
+---
+
+> _"Striving to bridge the gap between data and decision-making with creativity and code."_ 🚀
