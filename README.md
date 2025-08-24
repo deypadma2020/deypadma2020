@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm passionate about turning data into meaningful 
 
 ### 🚀 What I Do
 
-- 🧹 Data Wrangling & Cleaning (Pandas, NumPy)
+- 🔥 Big Data Processing & ETL (PySpark, Pandas, NumPy)
 - 📊 Exploratory Data Analysis & Visualization (Matplotlib, Seaborn, Power BI)
 - 🤖 Machine Learning & Deep Learning (scikit-learn, TensorFlow, PyTorch)
-- ⚙️ API Development (FastAPI) | 🔍 Model Deployment (Docker)
-- 🧠 Learning about LLMs & GenAI tools
+- ⚙️ API Development & Model Deployment (FastAPI, Docker)
+- 🧠 Exploring LLMs & Generative AI Tools
 
 ---
 
