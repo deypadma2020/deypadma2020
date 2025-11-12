@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | 💡 Data Scientist | 🧠 AI & LLM Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about turning data into meaningful insights, building ML models, and exploring the latest in AI, deep learning, and large language models (LLMs).
+Welcome to my GitHub profile! I'm passionate about turning data into meaningful insights, building ML models, and exploring the latest in AI, and large language models (LLMs).
 
 ---
 
