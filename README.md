@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into meaningful 
 
 - 🔗 [LinkedIn: Padma Dey](https://www.linkedin.com/in/padmadey/)
 - 📫 Email: deypadma2022@gmail.com
-- 🧠 Let's talk Data, AI, and everything in between!
+- 🧠 Let's talk Data, AI/ML, and everything in between!
 
 ---
 
