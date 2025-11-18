@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! I'm passionate about turning data into meaningful 
 
 - 🔥 Big Data Processing & ETL (Dask, Pandas, NumPy)
 - 📊 Exploratory Data Analysis & Visualization (Matplotlib, Seaborn, Plotly, Power BI)
-- 🤖 Machine Learning & Deep Learning (scikit-learn, TensorFlow, PyTorch)
+- 🤖 Machine Learning & Deep Learning (scikit-learn)
 - ⚙️ API Development & Model Deployment (FastAPI, Docker)
 - 🧠 Exploring LLMs & Generative AI Tools
 
