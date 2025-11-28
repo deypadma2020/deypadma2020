@@ -6,7 +6,7 @@ Welcome to my GitHub Profile! I'm passionate about turning data into meaningful 
 
 ---
 
-### 🚀 What I Do: -
+### 🚀 What I Do: 
 
 - 🔥 Big Data Processing & ETL (Dask, Pandas, NumPy, etc.)
 - 📊 Exploratory Data Analysis & Visualization (Matplotlib, Seaborn, Plotly, Power BI)
