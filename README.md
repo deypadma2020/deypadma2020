@@ -11,7 +11,7 @@ I'm passionate about turning data into insights, building intelligent systems, a
 
 - 🔥 **Big Data Processing & ETL** — Dask, Pandas, NumPy  
 - 📊 **Exploratory Data Analysis & Visualization** — Matplotlib, Seaborn, Plotly, Power BI  
-- 🤖 **Machine Learning & Deep Learning** — scikit-learn  
+- 🤖 **Machine Learning** — scikit-learn  
 - ⚙️ **API Development & Deployment** — FastAPI, Docker  
 - 🧠 **Exploring** LLMs, Generative AI, and AI applications  
 
