@@ -7,7 +7,7 @@ I'm passionate about turning data into insights, building intelligent systems, a
 
 ---
 
-## 🚀 What I Do:
+## 🚀 What I Do: -
 
 - 🔥 **Big Data Processing & ETL** — Dask, Pandas, NumPy  
 - 📊 **Exploratory Data Analysis & Visualization** — Matplotlib, Seaborn, Plotly, Power BI  
