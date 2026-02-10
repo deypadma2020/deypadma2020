@@ -36,7 +36,7 @@ I'm passionate about turning data into insights, building intelligent systems, a
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning: -
 
 - 🚀 LLM app development with **LangChain & OpenAI APIs**  
 - 🛠️ Advanced **Data Engineering** workflows  
