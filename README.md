@@ -17,7 +17,7 @@ I'm passionate about turning data into insights, building intelligent systems, a
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats -
 
 ![Padma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deypadma2020&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deypadma2020&layout=compact&theme=tokyonight)
